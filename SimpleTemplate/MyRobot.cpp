@@ -10,7 +10,7 @@ class RobotDemo : public SimpleRobot
 {
 	RobotDrive myRobot; // robot drive system
 	Joystick stick; // only joystick
-
+// steve will ace finals
 public:
 	RobotDemo(void):
 		myRobot(1, 2),	// these must be initialized in the same order
