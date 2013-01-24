@@ -6,6 +6,8 @@
  * Autonomous and OperatorControl methods at the right time as controlled by the switches on
  * the driver station or the field controls.
  */ 
+
+//the file is now 20% cooler
 class RobotDemo : public SimpleRobot
 {
 	RobotDrive myRobot; // robot drive system
